@@ -1,4 +1,5 @@
 About Me:
+
 Soy Leidy J. Agudelo, programadora fullstack y estudiante de ingeniería informática con una profunda pasión por el desarrollo de software. Cada día me motiva seguir aprendiendo y enfrentando nuevos desafíos para mejorar mis habilidades técnicas y mi creatividad. Me considero una profesional en constante crecimiento, con un fuerte compromiso en colaborar con equipos para crear aplicaciones de alto impacto. Busco siempre contribuir al éxito del equipo y destacar en el mundo de la tecnología, enfrentando retos que me permitan seguir evolucionando.
 
 
