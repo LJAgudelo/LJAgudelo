@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 ¡Hola! Soy Leidy J. Agudelo, un programador junior de Medellín, Colombia, con una gran pasión por el desarrollo de software. Actualmente, estudio ingeniería informática y me motiva cada día aprender más sobre programación.<br><br>Me especializo en tecnologías como React, JavaScript y Node.js, y siempre estoy buscando nuevos desafíos para seguir creciendo. Me considero un profesional con muchas ganas de sobresalir, aportar creatividad y energía a proyectos innovadores, y resolver problemas reales a través de la programación.<br><br>Mi objetivo es participar en proyectos colaborativos donde pueda seguir mejorando mis habilidades y contribuir al éxito del equipo, mientras me destaco en el mundo de la tecnología.
 
 
